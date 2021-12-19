@@ -33,7 +33,14 @@
     display: flex;
 }
  @media (max-width:688px) { 
-    .media-query, .last{
+    .media-query{
+        display: block;
+       
+        
+    
+       
+    }
+    .last{
         display: block;
         text-align: center;
         
