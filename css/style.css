@@ -1,0 +1,45 @@
+.bg-color{
+    background-color:rgb(255, 251, 240); 
+}
+.woman-card{
+    border:0;
+}
+.btn-color{
+    color: white;
+    background-color: rgb(164, 188, 70);
+    border: 0;
+}
+.h1-money{
+    font-size: 50px;
+    color: rgb(250, 190, 76);
+}
+
+.new-card{
+    border: 0;
+}
+.footer-edit{
+    background-color: white;
+    border:none;
+}
+.card-bg-color{
+    background-color:rgba(151, 99, 99, 0.767);
+}
+.img-height{
+    height: 60%;
+    background-color: rgb(209, 216, 215);
+    border-radius: 10px;
+}
+.media-query, .last{
+    display: flex;
+}
+ @media (max-width:688px) { 
+    .media-query, .last{
+        display: block;
+        text-align: center;
+        
+    
+       
+    }
+    
+}
+
